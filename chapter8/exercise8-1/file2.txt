@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stddef.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+int main(int argc, const char * argv[]) {
+    //hexademical '\xhh'
+    printf("\x710\n");dd
+    printf("\x71z\n");
+    char c;
+    return 0;
+}
